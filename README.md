@@ -23,3 +23,6 @@ Users can enter a city name and see the **temperature**, **condition**, and othe
 Install `requests` if not already installed:
 ```bash
 pip install requests
+
+Images: 
+<img width="348" height="274" alt="image" src="https://github.com/user-attachments/assets/2caf4df5-1fea-446a-8e67-15cbb10fb730" />
